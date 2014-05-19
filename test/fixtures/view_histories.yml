@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  comic_id: 1
+  time_viewed: 2014-05-18 20:03:46
+  ip: MyString
+
+two:
+  comic_id: 1
+  time_viewed: 2014-05-18 20:03:46
+  ip: MyString

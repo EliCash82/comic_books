@@ -1,0 +1,15 @@
+<h1>Listing comics</h1>
+
+<table>
+  <tr>
+    <th>Date</th>
+    <th>IP</th>
+  </tr>
+
+<% @views.each do |view| %>
+  <tr>
+    <td><%= view.time_viewed %></td>
+    <td><%= view.ip %></td>
+  </tr>
+<% end %>
+</table>

@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  1960_value: 1
+  1994_value: 1
+  2013_value: 1
+  notes: MyText
+
+two:
+  1960_value: 1
+  1994_value: 1
+  2013_value: 1
+  notes: MyText
